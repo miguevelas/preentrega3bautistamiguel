@@ -44,9 +44,6 @@ divContenedor.innerHTML = `<p>NOMBRE: Lentejas</p>
 divContenedorFideos.innerHTML = `<p>NOMBRE: Macarrones</p>
                                 <p>PRECIO: 350</p>`;
 
-
-
-
 const btEnvForm = document.getElementById("btnEnviar");
 btEnvForm.addEventListener("click", ()=>{
     // alert("Gracias por contactarnos");
